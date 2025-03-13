@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">🚀 Dynamic Project</h1>
+<p align="center"><strong>The Private Reserve — Premium builds by <a href="https://github.com/codeaashu">@codeaashu</a></strong></p>
 
-<!--
-**Dynamic-Project/Dynamic-Project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/status-private-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/build-premium-FFD700?style=flat-square" />
+  <img src="https://img.shields.io/badge/curated_by-codeaashu-blue?style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<p align="center">
+  Welcome to the <strong>Dynamic Project</strong> — a premium, hand-crafted solution built with precision and care.  
+  This repository is part of <em><strong>The Private Reserve</strong></em>, an exclusive collection of high-quality builds by <a href="https://github.com/codeaashu">@codeaashu</a>.
+</p>
+
+<br />
+
+---
+
+## 🧠 Features
+
+- ✨ Premium-grade code architecture  
+- 🔐 Private & optimized logic structure  
+- 💡 Built for scalability and performance  
+- 📦 Clean modular design
+
+---
+
+## 🚀 Tech Stack
+
+> *(Stack info can be updated as per your project)*
+
+- **Frontend**: React.js / TailwindCSS / HTML / JS  
+- **Backend**: Node.js / Express  
+- **Other**: GitHub Actions / Vite / Netlify
+
+---
